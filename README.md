@@ -21,7 +21,7 @@ Download stylegan wegiths from [here](https://github.com/lernapparat/lernapparat
 
 # Possible improvements
 
-The project was done as a part of experiments related to the [here]([https://github.com/lernapparat/lernapparat/releases/download/v2019-02-01/karras2019stylegan-ffhq-1024x1024.for_g_all.pt](https://github.com/warmspringwinds/segmentation_in_style)) 
+The project was done as a part of experiments related to the [paper](https://github.com/warmspringwinds/segmentation_in_style).
 
 * Adjust learning rate to make effects more/less dramatic.
 * Switch to stylegan-2 and restrict the changes only to certain level of latents to make results more stable.
