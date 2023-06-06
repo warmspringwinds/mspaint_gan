@@ -21,9 +21,9 @@ Download stylegan wegiths from [here](https://github.com/lernapparat/lernapparat
 
 # Possible improvements
 
--- Adjust learning rate to make effects more/less dramatic.
--- Switch to stylegan-2 and restrict the changes only to certain level of latents to make results more stable.
--- Incorporate more ideas from DragGan to restric the changes to a certain region.
+* Adjust learning rate to make effects more/less dramatic.
+* Switch to stylegan-2 and restrict the changes only to certain level of latents to make results more stable.
+* Incorporate more ideas from DragGan to restric the changes to a certain region.
 
 # Acknowledgements
 
