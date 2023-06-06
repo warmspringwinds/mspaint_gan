@@ -1,4 +1,4 @@
-# MS Paint GAN
+# :paintbrush: :art: MS Paint GAN
 Neural photo editor based on stylegan that allows to realistically edit images with an interface similar to MS paint.
 
 In some way extends DragGan by adding color controls.
