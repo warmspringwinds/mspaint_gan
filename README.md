@@ -21,7 +21,7 @@ Download stylegan wegiths from [here](https://github.com/lernapparat/lernapparat
 
 # Possible improvements
 
-The project was done as a part of experiments related to the [paper](https://github.com/warmspringwinds/segmentation_in_style).
+The project was done as a part of exploratory experiments related to the [paper](https://github.com/warmspringwinds/segmentation_in_style).
 
 Things that can be done to improve the results:
 
