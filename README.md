@@ -25,3 +25,5 @@ https://github.com/warmspringwinds/mspaint_gan/assets/2501383/6da18de5-50f6-45ca
 # Setup
 
 Download stylegan wegiths from [here](https://github.com/lernapparat/lernapparat/releases/download/v2019-02-01/karras2019stylegan-ffhq-1024x1024.for_g_all.pt) and place into ```mspaint_gan``` folder.
+
+Adjust learning rate to make effects more/less dramatic.
