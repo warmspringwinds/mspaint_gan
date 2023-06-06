@@ -23,6 +23,8 @@ Download stylegan wegiths from [here](https://github.com/lernapparat/lernapparat
 
 The project was done as a part of experiments related to the [paper](https://github.com/warmspringwinds/segmentation_in_style).
 
+Things that can be done to improve the results:
+
 * Adjust learning rate to make effects more/less dramatic.
 * Switch to stylegan-2 and restrict the changes only to certain level of latents to make results more stable.
 * Incorporate more ideas from DragGan to restric the changes to a certain region.
