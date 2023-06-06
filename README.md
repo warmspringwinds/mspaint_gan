@@ -10,7 +10,10 @@ https://github.com/warmspringwinds/mspaint_gan/assets/2501383/9c3ae350-f2ba-4b76
 
 
 
-https://github.com/warmspringwinds/mspaint_gan/assets/2501383/a3ff5e84-c5d5-46e3-907b-6b6c3db3ba5c
+
+
+https://github.com/warmspringwinds/mspaint_gan/assets/2501383/499bcc59-3ba5-4a21-bc0f-9b9f9d3495cd
+
 
 
 
