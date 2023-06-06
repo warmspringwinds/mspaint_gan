@@ -3,7 +3,7 @@ Neural photo editor based on stylegan that allows to realistically edit images w
 
 In some way extends DragGan by adding color controls.
 
-Work done durinng PhD at JHU. 
+Work done during PhD @ JHU. 
 
 # Examples
 
