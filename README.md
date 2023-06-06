@@ -7,15 +7,12 @@ Work done during PhD @ JHU.
 
 # Examples
 
+https://github.com/warmspringwinds/mspaint_gan/assets/2501383/9c460159-09e1-4692-a088-a5ddb130d89f
 
-https://github.com/warmspringwinds/mspaint_gan/assets/2501383/3b3ffa33-bea3-43bd-b09e-d869106a4638
-
-
-https://github.com/warmspringwinds/mspaint_gan/assets/2501383/12f0b51e-28b4-42bb-9226-a668668f2fa8
+https://github.com/warmspringwinds/mspaint_gan/assets/2501383/77e8f47f-399e-453f-a9c4-42e51db4b1c5
 
 
-https://github.com/warmspringwinds/mspaint_gan/assets/2501383/d6239027-2dd4-418c-a4fb-7365c72e75d7
-
+https://github.com/warmspringwinds/mspaint_gan/assets/2501383/5f167244-b491-4724-a43d-ba0b42930a13
 
 
 # Setup
